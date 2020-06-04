@@ -11,7 +11,7 @@
 
 - **Python version :** 3.7
 - **Scraper GitHub :** [twitterscraper](https://github.com/taspinar/twitterscraper)
-- **Tensorflow : **2.0 (**GPU Version**)
+- **Tensorflow :** 2.0 (**GPU Version**)
 - **BERT Package :** bert-tensorflow
 - **TensorFlow HUB**
 - **SciKit Learn**
